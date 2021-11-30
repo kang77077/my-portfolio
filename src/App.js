@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+import 'glightbox/dist/css/glightbox.min.css';
+import 'swiper/swiper-bundle.min.css';
 
 function App() {
   return (
